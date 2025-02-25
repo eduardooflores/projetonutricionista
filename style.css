@@ -19,3 +19,16 @@ header {
       list-style: none;
       gap: 15px;
 }
+
+.cta {
+      background-color: #616468;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+}
+
+.cta:hover {
+      background-color: #63f79c;
+      transition: 1.2s;
+}
